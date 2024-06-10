@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>add.png</file>
+        <file>add_picture.png</file>
+        <file>bcg.jpg</file>
+        <file>canny.png</file>
+        <file>desc_icon.png</file>
+        <file>Dilatation.png</file>
+        <file>Dilatation_Erosion.png</file>
+        <file>Erosion.png</file>
+        <file>face_recognition_icon.png</file>
+        <file>graphic-stitching.png</file>
+        <file>image_icon.png</file>
+        <file>images.qrc</file>
+        <file>Lighting.png</file>
+        <file>Resizing.png</file>
+        <file>slider.png</file>
+        <file>stitch1.png</file>
+        <file>stitch2.png</file>
+        <file>test.jpg</file>
+        <file>video_icon.png</file>
+    </qresource>
+</RCC>

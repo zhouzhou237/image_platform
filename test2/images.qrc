@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../images/add.png</file>
+        <file>../images/add_picture.png</file>
+        <file>../images/desc_icon.png</file>
+        <file>../images/Dilatation.png</file>
+        <file>../images/Dilatation_Erosion.png</file>
+        <file>../images/Erosion.png</file>
+        <file>../images/face_recognition_icon.png</file>
+        <file>../images/graphic-stitching.png</file>
+        <file>../images/image_icon.png</file>
+        <file>../images/Lighting.png</file>
+        <file>../images/Resizing.png</file>
+        <file>../images/slider.png</file>
+        <file>../images/test.jpg</file>
+        <file>../images/video_icon.png</file>
+        <file>../images/bcg.jpg</file>
+    </qresource>
+</RCC>
